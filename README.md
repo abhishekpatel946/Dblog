@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+We are using pieces of this stack for this application: 
+1. Blockchain - Polygon (with optional RPC provider) 
+2. Ethereum development environment - Hardhat 
+3. Front end framework - Next.js & React 
+4. Ethereum web client library - Ethers.js 
+5. File storage - IPFS 
+6. Indexing and querying - The Graph Protocol
+
 First, run the development server:
 
 ```bash
