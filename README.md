@@ -18,6 +18,16 @@ npm run dev
 yarn dev
 ```
 
+Contract address:
+```bash
+0x9e8538B28228fc53f4824701ACb35778f9882067
+```
+
+Subgraph:
+```bash
+https://thegraph.com/hosted-service/subgraph/abhishekpatel946/blogcms
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
