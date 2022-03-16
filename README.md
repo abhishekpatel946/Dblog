@@ -66,3 +66,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+```shell
+npx graph init --from-contract <contract address> --network <network name> --contract-name <contract name> --index-events
+npx graph codegen
+npx graph build
+```
