@@ -35,6 +35,8 @@
     "web3modal": "^1.9.5"
   },
   "devDependencies": {
+    "@babel/core": "^7.17.7",
+    "@babel/preset-env": "^7.16.11",
     "eslint": "8.11.0",
     "eslint-config-next": "12.1.0",
     "graph-cli": "^0.0.1",
