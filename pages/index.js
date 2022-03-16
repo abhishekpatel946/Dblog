@@ -35,7 +35,7 @@ export default function Home(props) {
                   <p className={postTitle}>{post[1]}</p>
                   <div className={arrowContainer}>
                     <img
-                      src='/right-arrow.svg'
+                      src='https://www.nicepng.com/png/full/758-7586854_arrow-png-transparent-icon-right-arrow-in-circle.png'
                       alt='Right arrow'
                       className={smallArrow}
                     />
@@ -140,5 +140,5 @@ const arrow = css`
 `;
 
 const smallArrow = css`
-  width: 25px;
+  width: 75px;
 `;
