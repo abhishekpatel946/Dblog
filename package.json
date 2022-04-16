@@ -2,6 +2,7 @@
   "name": "dblog",
   "version": "0.1.0",
   "private": true,
+  "author": "Abhishek Patel",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
